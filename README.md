@@ -1,4 +1,4 @@
-# Script para Gerenciar Memória Swap
+# Script criar/alterar memória swap customizada.
 
 Este repositório contém um script em Bash que permite verificar, remover e criar uma nova memória swap em seu sistema Linux.
 
